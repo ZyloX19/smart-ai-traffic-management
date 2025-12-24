@@ -6,10 +6,10 @@ This project is a **Smart AI-Based Traffic Management System** designed to optim
 ---
 
 ## Features
-- **Adaptive Traffic Signal Control:** AI agent adjusts traffic light timings dynamically based on traffic flow in simulation.  
-- **Reinforcement Learning (DQN):** Learns optimal signal timing strategies through trial-and-error in a simulated environment.  
-- **Simulation Integration:** Works with traffic simulations to test and evaluate traffic management strategies.  
-- **Flask Backend:** Provides real-time simulation updates and traffic metrics.  
+- **Adaptive Traffic Signal Control:** AI agent adjusts traffic light timings dynamically based on traffic flow in simulation.
+- **Reinforcement Learning (DQN):** Learns optimal signal timing strategies through trial-and-error in a simulated environment.
+- **Simulation Integration:** Works with traffic simulations to test and evaluate traffic management strategies.
+- **Flask Backend:** Provides real-time simulation updates and traffic metrics.
 - **Performance Metrics:** Evaluates traffic flow efficiency, average waiting time, and congestion reduction.
 
 ---
@@ -24,6 +24,7 @@ This project is a **Smart AI-Based Traffic Management System** designed to optim
 ---
 
 ## Installation & Setup
+
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/yourusername/Smart-AI-Traffic-Management.git
